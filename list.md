@@ -2,56 +2,56 @@
 
 ### Documents
 - [ ] passport
-  - [ ] visa: TN-1
+	- [ ] visa: TN-1
 - [ ] wallet
-  - [ ] nexus card
-  - [ ] credit card
-  - [ ] debit card
-  - [ ] cigna card
-  - [ ] guardian card
-  - [ ] transit cards
-    - [ ] MTA
-    - [ ] SL
-    - [ ] Oyster
+	- [ ] nexus card
+	- [ ] credit card
+	- [ ] debit card
+	- [ ] cigna card
+	- [ ] guardian card
+	- [ ] transit cards
+		- [ ] MTA
+    		- [ ] SL
+    		- [ ] Oyster
 - [ ] work badge
 - [ ] cash
-  - [ ] USD
-  - [ ] EUR
-  - [ ] GBP
-  - [ ] SEK (_why_?)
+	- [ ] USD
+	- [ ] EUR
+	- [ ] GBP
+	- [ ] SEK (_why_?)
 
 ### Clothing
 - [ ] base
 	- [ ] underwear
-  - [ ] bra
+	- [ ] bra
 	- [ ] socks
-  - [ ] stockings/tights
+	- [ ] stockings/tights
 	- [ ] belt
 	- [ ] bathing suit
-  - [ ] glasses
-  - [ ] sunglasses
+	- [ ] glasses
+	- [ ] sunglasses
 - [ ] top
 	- [ ] short-sleeve/tank
 	- [ ] long-sleeve
 	- [ ] dress/formal
-  - [ ] sweater
+	- [ ] sweater
 	- [ ] exercise/sleep
 - [ ] bottom
 	- [ ] shorts
 	- [ ] exercise/hiking/sleep
-  - [ ] skirt
+	- [ ] skirt
 	- [ ] pants/jeans
 - [ ] miscellaneous
-  - [ ] dress
-  - [ ] one-piece
-  - [ ] jewellery
+	- [ ] dress
+	- [ ] one-piece
+	- [ ] jewellery
 - [ ] outer
 	- [ ] coat/jacket/rainwear
 	- [ ] hat
 	- [ ] umbrella
-  - [ ] gloves
+	- [ ] gloves
 	- [ ] scarf
-  - [ ] cover-up
+	- [ ] cover-up
 - [ ] shoes
 	- [ ] dress/formal
 	- [ ] hiking/athletic
@@ -62,27 +62,31 @@
 	- [ ] duffel
 	- [ ] day/purse/tote
 	- [ ] laundry
-	- [ ] packing cube(s)
+	- [ ] packing cube
+		- [ ] clothing
+		- [ ] toiletries
+		- [ ] electronics
+		- [ ] miscellaneous
 
 ### Toiletries
 - [ ] hair
 	- [ ] shampoo
 	- [ ] conditioner
-  - [ ] product
-  - [ ] hair tie
-  - [ ] bobby pin
-  - [ ] brush/comb
+	- [ ] product
+	- [ ] hair tie
+	- [ ] bobby pin
+	- [ ] brush/comb
 - [ ] face
 	- [ ] face wash
-  - [ ] scrubber
+	- [ ] scrubber
 	- [ ] moisturizer
 	- [ ] sunscreen
-  - [ ] hydrocolloid stickers
+	- [ ] hydrocolloid stickers
 	- [ ] toner
 	- [ ] spot treatment
 	- [ ] q-tips
 	- [ ] tweezers
-  - [ ] makeup
+	- [ ] makeup
 - [ ] mouth
 	- [ ] toothbrush
 	- [ ] toothpaste
@@ -91,57 +95,57 @@
 	- [ ] mouthguard
 	- [ ] lip balm
 - [ ] body
-  - [ ] soap
+	- [ ] soap
 	- [ ] body lotion
 	- [ ] razor
 	- [ ] deodorant/antiperspirant
 	- [ ] nail clippers
-  - [ ] towel
+	- [ ] towel
 - [ ] miscellaneous
-  - [ ] medication
-    - [ ] accompanying documentation
-  - [ ] bandaids
-  - [ ] moleskin
-  - [ ] tissues
-  - [ ] ibuprofen
-  - [ ] antihistamines
-  - [ ] nose spray
-  - [ ] throat lozenges
-  - [ ] antacids
-  - [ ] insect repellent
-  - [ ] gum/mints
-  - [ ] fragrance
-  - [ ] laundry detergent
-  - [ ] stain remover
-  - [ ] pads/tampons
-  - [ ] birth control
+	- [ ] medication
+		- [ ] accompanying documentation
+	- [ ] bandaids
+	- [ ] moleskin
+	- [ ] tissues
+	- [ ] ibuprofen
+	- [ ] antihistamines
+	- [ ] nose spray
+	- [ ] throat lozenges
+	- [ ] antacids
+	- [ ] insect repellent
+	- [ ] gum/mints
+	- [ ] fragrance
+	- [ ] laundry detergent
+	- [ ] stain remover
+	- [ ] pads/tampons
+	- [ ] birth control
 
 ### Electronics
 - [ ] headphones
-  - [ ] audio jack: 3.5mm
-  - [ ] audio jack: USB-C
-  - [ ] adapter: 3.5mm > USB-C
+	- [ ] audio jack: 3.5mm
+	- [ ] audio jack: USB-C
+	- [ ] adapter: 3.5mm > USB-C
 - [ ] phone
-  - [ ] charging cable: USB-C <> USB-C
-  - [ ] power adapter
+	- [ ] charging cable: USB-C <> USB-C
+	- [ ] power adapter
 - [ ] laptop
-  - [ ] charging cable: USB-C <> USB-C
-  - [ ] power adapter
-  - [ ] sleeve
+	- [ ] charging cable: USB-C <> USB-C
+	- [ ] power adapter
+	- [ ] sleeve
 - [ ] adapters
-  - [ ] US -> EU
-  - [ ] US -> UK
-  - [ ] multi (which?)
-  - [ ] USB-A > USB-C
+	- [ ] US -> EU
+	- [ ] US -> UK
+	- [ ] multi (which?)
+	- [ ] USB-A > USB-C
 - [ ] external battery
-  - [ ] charging cable: USB-A <> USB-C
-  - [ ] charging cable: USB-A <> µUSB
-  - [ ] bag
+	- [ ] charging cable: USB-A <> USB-C
+	- [ ] charging cable: USB-A <> µUSB
+	- [ ] bag
 - [ ] external drive
-  - [ ] cable
+	- [ ] cable
 - [ ] miscellaneous
-  - [ ] power bar
-  - [ ] Chromecast
+	- [ ] power bar
+	- [ ] Chromecast
 
 ### Miscellaneous
 - [ ] keys
@@ -154,11 +158,11 @@
 
 ### Climbing
 - [ ] climbing shoes
-  - [ ] shoe bananas
+	- [ ] shoe bananas
 - [ ] gym tags/passes
 - [ ] lock
-  - [ ] combination?
-  - [ ] key
+	- [ ] combination
+	- [ ] key
 - [ ] chalk
 - [ ] tape
 - [ ] carabiners
