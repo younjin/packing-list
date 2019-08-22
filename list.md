@@ -11,8 +11,8 @@
 	- [ ] guardian card
 	- [ ] transit cards
 		- [ ] MTA
-    		- [ ] SL
-    		- [ ] Oyster
+		- [ ] SL
+		- [ ] Oyster
 - [ ] work badge
 - [ ] cash
 	- [ ] USD
