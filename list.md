@@ -18,7 +18,7 @@
   - [ ] USD
   - [ ] EUR
   - [ ] GBP
-  - [ ] SEK (but _why_?)
+  - [ ] SEK (_why_?)
 
 ### Clothing
 - [ ] base
@@ -99,7 +99,7 @@
   - [ ] towel
 - [ ] miscellaneous
   - [ ] medication
-    - [ ] documentation
+    - [ ] accompanying documentation
   - [ ] bandaids
   - [ ] moleskin
   - [ ] tissues
@@ -121,7 +121,6 @@
   - [ ] audio jack: 3.5mm
   - [ ] audio jack: USB-C
   - [ ] adapter: 3.5mm > USB-C
-
 - [ ] phone
   - [ ] charging cable: USB-C <> USB-C
   - [ ] power adapter
