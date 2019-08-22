@@ -18,15 +18,7 @@
   - [ ] USD
   - [ ] EUR
   - [ ] GBP
-
-### Miscellaneous
-- [ ] keys
-- [ ] musicians' earplugs
-- [ ] water bottle
-- [ ] notebook
-- [ ] pen/pencil
-- [ ] dry bag
-- [ ] matches
+  - [ ] SEK (but _why_?)
 
 ### Clothing
 - [ ] base
@@ -151,6 +143,15 @@
 - [ ] miscellaneous
   - [ ] power bar
   - [ ] Chromecast
+
+### Miscellaneous
+- [ ] keys
+- [ ] musicians' earplugs
+- [ ] water bottle
+- [ ] notebook
+- [ ] pen/pencil
+- [ ] dry bag
+- [ ] matches
 
 ### Climbing
 - [ ] climbing shoes
