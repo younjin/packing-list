@@ -1,0 +1,165 @@
+# Packing List
+
+### Documents
+- [ ] passport
+  - [ ] visa: TN-1
+- [ ] wallet
+  - [ ] nexus card
+  - [ ] credit card
+  - [ ] debit card
+  - [ ] cigna card
+  - [ ] guardian card
+  - [ ] transit cards
+    - [ ] MTA
+    - [ ] SL
+    - [ ] Oyster
+- [ ] work badge
+- [ ] cash
+  - [ ] USD
+  - [ ] EUR
+  - [ ] GBP
+
+### Miscellaneous
+- [ ] keys
+- [ ] musicians' earplugs
+- [ ] water bottle
+- [ ] notebook
+- [ ] pen/pencil
+- [ ] dry bag
+- [ ] matches
+
+### Clothing
+- [ ] base
+	- [ ] underwear
+  - [ ] bra
+	- [ ] socks
+  - [ ] stockings/tights
+	- [ ] belt
+	- [ ] bathing suit
+  - [ ] glasses
+  - [ ] sunglasses
+- [ ] top
+	- [ ] short-sleeve/tank
+	- [ ] long-sleeve
+	- [ ] dress/formal
+  - [ ] sweater
+	- [ ] exercise/sleep
+- [ ] bottom
+	- [ ] shorts
+	- [ ] exercise/hiking/sleep
+  - [ ] skirt
+	- [ ] pants/jeans
+- [ ] miscellaneous
+  - [ ] dress
+  - [ ] one-piece
+  - [ ] jewellery
+- [ ] outer
+	- [ ] coat/jacket/rainwear
+	- [ ] hat
+	- [ ] umbrella
+  - [ ] gloves
+	- [ ] scarf
+  - [ ] cover-up
+- [ ] shoes
+	- [ ] dress/formal
+	- [ ] hiking/athletic
+	- [ ] leisure/sandals/flip-flops
+	- [ ] walking
+- [ ] bag
+	- [ ] laptop/carry-on
+	- [ ] duffel
+	- [ ] day/purse/tote
+	- [ ] laundry
+	- [ ] packing cube(s)
+
+### Toiletries
+- [ ] hair
+	- [ ] shampoo
+	- [ ] conditioner
+  - [ ] product
+  - [ ] hair tie
+  - [ ] bobby pin
+  - [ ] brush/comb
+- [ ] face
+	- [ ] face wash
+  - [ ] scrubber
+	- [ ] moisturizer
+	- [ ] sunscreen
+  - [ ] hydrocolloid stickers
+	- [ ] toner
+	- [ ] spot treatment
+	- [ ] q-tips
+	- [ ] tweezers
+  - [ ] makeup
+- [ ] mouth
+	- [ ] toothbrush
+	- [ ] toothpaste
+	- [ ] mouthwash
+	- [ ] floss
+	- [ ] mouthguard
+	- [ ] lip balm
+- [ ] body
+  - [ ] soap
+	- [ ] body lotion
+	- [ ] razor
+	- [ ] deodorant/antiperspirant
+	- [ ] nail clippers
+  - [ ] towel
+- [ ] miscellaneous
+  - [ ] medication
+    - [ ] documentation
+  - [ ] bandaids
+  - [ ] moleskin
+  - [ ] tissues
+  - [ ] ibuprofen
+  - [ ] antihistamines
+  - [ ] nose spray
+  - [ ] throat lozenges
+  - [ ] antacids
+  - [ ] insect repellent
+  - [ ] gum/mints
+  - [ ] fragrance
+  - [ ] laundry detergent
+  - [ ] stain remover
+  - [ ] pads/tampons
+  - [ ] birth control
+
+### Electronics
+- [ ] headphones
+  - [ ] audio jack: 3.5mm
+  - [ ] audio jack: USB-C
+  - [ ] adapter: 3.5mm > USB-C
+
+- [ ] phone
+  - [ ] charging cable: USB-C <> USB-C
+  - [ ] power adapter
+- [ ] laptop
+  - [ ] charging cable: USB-C <> USB-C
+  - [ ] power adapter
+  - [ ] sleeve
+- [ ] adapters
+  - [ ] US -> EU
+  - [ ] US -> UK
+  - [ ] multi (which?)
+  - [ ] USB-A > USB-C
+- [ ] external battery
+  - [ ] charging cable: USB-A <> USB-C
+  - [ ] charging cable: USB-A <> µUSB
+  - [ ] bag
+- [ ] external drive
+  - [ ] cable
+- [ ] miscellaneous
+  - [ ] power bar
+  - [ ] Chromecast
+
+### Climbing
+- [ ] climbing shoes
+  - [ ] shoe bananas
+- [ ] gym tags/passes
+- [ ] lock
+  - [ ] combination?
+  - [ ] key
+- [ ] chalk
+- [ ] tape
+- [ ] carabiners
+- [ ] harness
