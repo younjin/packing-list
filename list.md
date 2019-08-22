@@ -150,6 +150,7 @@
 ### Miscellaneous
 - [ ] keys
 - [ ] musicians' earplugs
+- [ ] kazoo
 - [ ] water bottle
 - [ ] notebook
 - [ ] pen/pencil
