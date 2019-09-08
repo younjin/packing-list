@@ -35,10 +35,12 @@
 	- [ ] long-sleeve
 	- [ ] dress/formal
 	- [ ] sweater
-	- [ ] exercise/sleep
+	- [ ] exercise
+	- [ ] sleep
 - [ ] bottom
 	- [ ] shorts
-	- [ ] exercise/hiking/sleep
+	- [ ] exercise
+	- [ ] sleep
 	- [ ] skirt
 	- [ ] pants/jeans
 - [ ] miscellaneous
@@ -75,7 +77,10 @@
 	- [ ] product
 	- [ ] hair tie
 	- [ ] bobby pin
+	- [ ] headband
 	- [ ] brush/comb
+	- [ ] towel
+	- [ ] straightener/curler
 - [ ] face
 	- [ ] face wash
 	- [ ] scrubber
@@ -86,7 +91,10 @@
 	- [ ] spot treatment
 	- [ ] q-tips
 	- [ ] tweezers
+	- [ ] face wipes
 	- [ ] makeup
+	- [ ] face mask
+	- [ ] cotton pads
 - [ ] mouth
 	- [ ] toothbrush
 	- [ ] toothpaste
@@ -94,6 +102,7 @@
 	- [ ] floss
 	- [ ] mouthguard
 	- [ ] lip balm
+	- [ ] gum/mints
 - [ ] body
 	- [ ] soap
 	- [ ] body lotion
@@ -101,6 +110,8 @@
 	- [ ] deodorant/antiperspirant
 	- [ ] nail clippers
 	- [ ] towel
+	- [ ] baby powder
+	- [ ] fragrance
 - [ ] miscellaneous
 	- [ ] medication
 		- [ ] accompanying documentation
@@ -109,12 +120,14 @@
 	- [ ] tissues
 	- [ ] ibuprofen
 	- [ ] antihistamines
-	- [ ] nose spray
+	- [ ] nasal spray
 	- [ ] throat lozenges
 	- [ ] antacids
+	- [ ] vitamins
 	- [ ] insect repellent
 	- [ ] gum/mints
-	- [ ] fragrance
+	- [ ] ointment/tiger balm
+	- [ ] hand sanitizer
 	- [ ] laundry detergent
 	- [ ] stain remover
 	- [ ] pads/tampons
@@ -143,6 +156,8 @@
 	- [ ] bag
 - [ ] external drive
 	- [ ] cable
+- [ ] kindle
+	- [ ] charging cable
 - [ ] miscellaneous
 	- [ ] power bar
 	- [ ] Chromecast
@@ -152,12 +167,18 @@
 - [ ] musicians' earplugs
 - [ ] kazoo
 - [ ] water bottle
+- [ ] book
+- [ ] knitting
 - [ ] notebook
 - [ ] pen/pencil
+- [ ] sewing kit
+- [ ] itinerary
+- [ ] maps
 - [ ] dry bag
 - [ ] matches
 
 ### Climbing
+- [ ] bag
 - [ ] climbing shoes
 	- [ ] shoe bananas
 - [ ] gym tags/passes
